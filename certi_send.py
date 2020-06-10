@@ -57,7 +57,7 @@ def main():
         
        
 
-    print("Sucessfully sent certificates!")
+    print("Sucessfully sent certificates! \U0001F600")
     input("Please Enter to Exit")
 
 if __name__ == "__main__":
